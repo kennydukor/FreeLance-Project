@@ -1,0 +1,9 @@
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\bin\Debug\RadiatorSizing.exe.config
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\obj\Debug\RadiatorSizing.csprojResolveAssemblyReference.cache
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\obj\Debug\RadiatorSizing.Form1.resources
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\obj\Debug\RadiatorSizing.Properties.Resources.resources
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\obj\Debug\RadiatorSizing.csproj.GenerateResource.Cache
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\bin\Debug\RadiatorSizing.exe
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\bin\Debug\RadiatorSizing.pdb
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\obj\Debug\RadiatorSizing.exe
+c:\users\kennydukor\documents\visual studio 2013\Projects\RadiatorSizing\RadiatorSizing\obj\Debug\RadiatorSizing.pdb
