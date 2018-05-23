@@ -126,7 +126,8 @@
             // 
             this.comboUnit.FormattingEnabled = true;
             this.comboUnit.Items.AddRange(new object[] {
-            "Cubic Centimeters (cm³)"});
+            "Cubic Centimeters (cm³)",
+            "Cubic Inches (in³)"});
             this.comboUnit.Location = new System.Drawing.Point(491, 17);
             this.comboUnit.Name = "comboUnit";
             this.comboUnit.Size = new System.Drawing.Size(121, 21);
